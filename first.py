@@ -1,0 +1,11 @@
+a=(1,2,3,4,5)
+print(a)
+
+b=('a',2,2.6,[1,4,5],{'key':'value'},True)
+print(b)
+print(type(b))
+print(len(b))
+print(b[0])
+print(b[-1])
+print(b[:-1])
+print(b[1:4])
